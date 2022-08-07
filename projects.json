@@ -1,0 +1,39 @@
+
+
+{
+    "ProjectsArray" : [
+
+        {
+            "id"    : 1,
+            "Title" : "Online shop",
+            "Details" : " A Project with Admin & user Panel. Where Admin can everything insert update delete show without page loading with ajax, yajra data tables and users can add  product to Wishlist and cart and can buy products by login with aamarpay payment gateway",
+            "Technology" : "Technologies and tools: Laravel, PHP, JavaScript, Ajax, jQuery, MYSQL.",
+            "Link1" : "https://github.com/habib162?tab=repositories"
+            
+    
+        },
+        {
+            "id"    : 2,
+            "Title" : "LMS System",
+            "Details" : "A Project with Admin & user Panel. where admin can create course and student can apply for the course etc..",
+            "Technology" : "Technologies and tools: this project is made by PHP, Laravel, javaScript",
+            "Link1" : "https://github.com/habib162?tab=repositories" 
+
+        },
+        {
+            "id"    : 3,
+            "Title" : "Ecommerce project",
+            "Details" : "A simple project where user can write, edit, update, show, delete, their post.",
+            "Technology" : "Technologies and tools: Laravel, PHP & MYSQL",
+            "Link1" : "https://github.com/habib162?tab=repositories" 
+        },
+        {
+            "id"    : 4,
+            "Title" : "Online post",
+            "Details" : "customer can buy products and admin can create, edit, delete and update the products.",
+            "Technology" : "Technologies and tools: this project is made by PHP, Laravel using passport authentication, MySQL & API integration with react js",
+            "Link1" : "https://github.com/habib162?tab=repositories" 
+        }
+    ]
+       
+}
